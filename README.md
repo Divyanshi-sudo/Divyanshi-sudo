@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Divyanshi-sudo
-- 👀 I’m interested in Frontend developer
+- 👀 I’m interested in Frontend developement
 - 🌱 I’m currently focusing on HTML, CSS, Javascript and NextJS
 - 📫 How to reach me divyanshinagrale@gmail.com
 - 😄 Pronouns: she/her
